@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Inter");
+* {
+  font-family: Inter, sans-serif;
+}
+
+#sidebar_wrapper {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  z-index: 2;
+}
+/*# sourceMappingURL=sidebar.css.map */
